@@ -1,4 +1,4 @@
-# Hello welcome! would you like to come in for a cup of coffee?☕🤍
+# Hello welcome! would you like to come in for a cup of coffee?☕
 <p align="center"
   <justify>
   <p> I'm 21 years old, I'm majoring in systems analysis and development, and I'm studying for front-end. I left my degree in physics to dedicate myself only to technology. A universe that I haven't always known, but as soon as I started exploring it, I realized that I belonged! You who came here, feel welcome, and follow my journey of development of my dev career. </p>
