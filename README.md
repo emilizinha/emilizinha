@@ -1,8 +1,10 @@
 # Hello welcome! would you like to come in for a cup of coffee?☕🤍
-<img src="https://i.pinimg.com/564x/35/38/92/3538920dfb5b550234d91b67e6c8c459.jpg" width="325px">
 <p align="center"
+  <justify>
+  <p> I'm 21 years old, I'm majoring in systems analysis and development, and I'm studying for front-end. I left my degree in physics to dedicate myself only to technology. A universe that I haven't always known, but as soon as I started exploring it, I realized that I belonged! You who came here, feel welcome, and follow my journey of development of my dev career. </p>
+   <justify>
 <div align="center">
-  <a href="https://github.com/duribeiro">
+  <a href="https://github.com/emilizinha">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=emilizinha&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emilizinha&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
